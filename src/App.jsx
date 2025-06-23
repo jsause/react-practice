@@ -12,7 +12,7 @@ const App = () => {
       </div>
       <div className='wrapper'> 
         <header>
-          <img src="./hero-img.png" alt="" />
+          <img src={`${import.meta.env.BASE_URL}hero-img.png`} alt="" />
           <h1>
             Bored? Find the <span className='text-gradient'>Movies</span> You'll Enjoy Below!
           
