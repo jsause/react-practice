@@ -1,7 +1,6 @@
 {
   "name": "practice-reactjs",
-  "private": true,
-  "homepage":"https://jsause.github.io/React.js_Practice/",
+  "homepage":"https://jsause.github.io/react-practice/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
